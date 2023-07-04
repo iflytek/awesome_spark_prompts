@@ -40,8 +40,8 @@
 
 ## 鸣谢
 
-<a href="https://github.com/f/awesome-chatgpt-prompts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=f/awesome-chatgpt-prompts" />
+<a href="https://github.com/iflytek/awesome_spark_prompts/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=iflytek/awesome_spark_prompts" />
 </a>
 
 # License
