@@ -3,7 +3,7 @@
  Awesome Iflytek Spark Prompts</h1></p>
 
 
-[![Awesome](spark)](https://img.shields.io/badge/iflytek-@spark-red.svg) 
+![![Awesome](spark)](https://img.shields.io/badge/iflytek-@spark-red.svg) 
 
 欢迎加入 "Awesome Iflytek Spark Prompts" 仓库! 这里收集了基于星火大模型的的最佳提示语(prompts)实践.
 
