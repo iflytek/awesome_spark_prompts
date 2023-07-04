@@ -1,7 +1,9 @@
 # awesome_spark_prompts
-<p align="center"><h1>🧠 Awesome Iflytek Spark Prompts</h1></p>
+<p align="center"><h1><img src="https://1024-cdn.xfyun.cn/2022_1024%2Fcms%2F16836147594061898%2F%E8%AE%AF%E9%A3%9E%E6%98%9F%E7%81%ABLOGO4%E5%80%8D.png" alt="Spark" id="anim-box" class="spark" style="width: 30px; height: 38px;">
+ Awesome Iflytek Spark Prompts</h1></p>
 
 
+[![Awesome](spark)](https://img.shields.io/badge/iflytek-@spark-red.svg) 
 
 欢迎加入 "Awesome Iflytek Spark Prompts" 仓库! 这里收集了基于星火大模型的的最佳提示语(prompts)实践.
 
@@ -36,13 +38,17 @@
 
 ## 贡献者 😍
 
-待定
 
-## 鸣谢
 
 <a href="https://github.com/iflytek/awesome_spark_prompts/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=iflytek/awesome_spark_prompts" />
 </a>
+
+
+## 鸣谢
+- https://www.promptingguide.ai/zh/techniques
+- [f/awesome-chatgpt-prompt](https://github.com/f/awesome-chatgpt-prompt)
+
 
 # License
 
