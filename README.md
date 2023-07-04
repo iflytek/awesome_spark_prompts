@@ -9,7 +9,7 @@
 
 [讯飞星火大模型](https://xinghuo.xfyun.cn/)讯飞星火认知大模型可以和人类进行自然交流，解答问题，高效完成各领域认知智能需求
 
-在这个仓库里，你将看到星湖大模型在各种各样领域的一些案例提示语Prompts. 我们非常欢迎您将比较好的提示语加入并共享到[本仓库]([https://github.com/iflytek/awesome_spark_prompts](https://github.com/iflytek/awesome_spark_prompts/edit/main/README.md)，用来给他人展示在星火大模型上的各式玩法。
+在这个仓库里，你将看到星火大模型在各种各样领域的一些案例提示语Prompts. 我们非常欢迎您将比较好的提示语加入并共享到[本仓库]([https://github.com/iflytek/awesome_spark_prompts](https://github.com/iflytek/awesome_spark_prompts/edit/main/README.md)，用来给他人展示在星火大模型上的各式玩法。
 
 现在你可以通过克隆本仓库的方式来浏览这些案例。
 
